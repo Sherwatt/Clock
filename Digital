@@ -1,0 +1,6 @@
+$ git init
+$ git add -A
+$ git commit -m "commiting my p5.js sketch"
+$ git branch -M main
+$ git remote add https://editor.p5js.org/Sherwatt/full/bhHyU4eeq https://github.com/Sherwatt/Clock.git
+$ git git push -u origin main
